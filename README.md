@@ -25,6 +25,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 - [Autocompounder by 4t2](https://github.com/fortytwomoney/modules) - Seamlessly reinvest yield returns for compounded gains. See [fortytwo.money](fortytwo.money)
 - [DCA](https://github.com/AbstractSDK/abstract/tree/main/modules/contracts/apps/dca) - Dollar-cost-average into or out of any asset using any DEX.
 - [Cron by CronCat](https://github.com/AbstractSDK/abstract/tree/main/modules/contracts/apps/croncat) - Create and manage cron-jobs directly from your account. See [cron.cat](cron.cat)
+- [Carrot Savings](https://carrotsavings.com) - Interchain Stablecoin Yield Aggregator
 
 ### Adapters
 - [DEX](https://github.com/AbstractSDK/adapters/tree/main/contracts/dex) - Adapter allowing interaction with any decentralized exchange in the Cosmos network.
