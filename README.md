@@ -14,6 +14,8 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 - [Modules](#modules)
   - [Apps](#apps)
   - [Adapters](#adapters)
+- [Hackathon Wins](#hackathon-wins)
+- [Workshops](#workshops)
 - [Tools](#tools)
 - [Resources](#resources)
 
@@ -36,11 +38,6 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 - [Lending market](https://github.com/AbstractSDK/abstract/tree/main/modules/contracts/adapters/money-market) - Adapter to manage lending and borrowing actions in lending markets across Cosmos.
 - [Tendermint-Staking](https://github.com/AbstractSDK/abstract/tree/main/modules/contracts/adapters/tendermint-staking) - Manage native staking operations on Cosmos chains with ease.
 
-
-## Tools
-- [CW-Orchestrator](https://github.com/AbstractSDK/cw-orchestrator) - Multi-environment CosmWasm smart-contract deployment and scripting library.
-- [Abstract Testing](https://github.com/AbstractSDK/contracts/tree/main/packages/abstract-testing) - Unit testing utilities for CosmWasm contracts.
-
 ## Hackathon Wins
 - [Equilibrium](https://github.com/EquilibriumEtf/balancer-module) - 25K, 1st place, HackWasm 2022
 - [IBC Mail](https://github.com/AbstractSDK/ibc-mail) - 10K, 2 grand prizes & 1 bounty, Celestia Infinite Bazaar Hackathon
@@ -55,6 +52,11 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 ## Workshops
 - [Cw-Orchestrator Workshop](https://www.youtube.com/watch?v=IZ5_r9JEoUs) - CosmWasm scripting, testing, and deployment with cw-orchestrator + interchain orchestrator
 - [DCA App Workshop](https://www.youtube.com/watch?v=D-q6d01JVck) - Building and testing a DCA application on Abstract
+
+## Tools
+- [CW-Orchestrator](https://github.com/AbstractSDK/cw-orchestrator) - Multi-environment CosmWasm smart-contract deployment and scripting library.
+- [Abstract Testing](https://github.com/AbstractSDK/contracts/tree/main/packages/abstract-testing) - Unit testing utilities for CosmWasm contracts.
+
 
 ## Resources
 - [Official Documentation](https://docs.abstract.money) - Detailed guides and API references.
