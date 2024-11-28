@@ -31,15 +31,18 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 - [Carrot Savings](https://carrotsavings.com) - Interchain Stablecoin Yield Aggregator
 - [Stake to Schedule](https://github.com/AbstractSDK/abstract/tree/main/modules/contracts/apps/calendar) - Enforce deposits on-chain for scheduling meetings and slash those who miss them!
 - [Accountability](https://github.com/AbstractSDK/abstract/tree/main/modules/contracts/apps/challenge) - Create financial challenges and hold your friends accountable!
+- [IBC Mail](https://github.com/AbstractSDK/ibc-mail) - Send and receive messages across IBC chains!
 
 ### Adapters
 - [DEX](https://github.com/AbstractSDK/abstract/tree/main/modules/contracts/adapters/dex) - Adapter allowing interaction with any decentralized exchange in the Cosmos network.
 - [CW-Staking](https://github.com/AbstractSDK/abstract/tree/main/modules/contracts/adapters/cw-staking) - Adapter to manage staking operations on DEXes in Cosmos.
 - [Lending market](https://github.com/AbstractSDK/abstract/tree/main/modules/contracts/adapters/money-market) - Adapter to manage lending and borrowing actions in lending markets across Cosmos.
+- [Oracle](https://github.com/AbstractSDK/abstract/tree/main/modules/contracts/adapters/oracle) - Adapter retrieve prices from different sources.
 - [Tendermint-Staking](https://github.com/AbstractSDK/abstract/tree/main/modules/contracts/adapters/tendermint-staking) - Manage native staking operations on Cosmos chains with ease.
 
 ## Hackathon Wins
 - [Equilibrium](https://github.com/EquilibriumEtf/balancer-module) - 25K, 1st place, HackWasm 2022
+- [InMail Treasury](https://github.com/CyberHoward/dao-mail) - 13K, 1st place Osmosis, 2nd place Warden, most innovate product, Hackmos 2024
 - [IBC Mail](https://github.com/AbstractSDK/ibc-mail) - 10K, 2 grand prizes & 1 bounty, Celestia Infinite Bazaar Hackathon
 - [Cross-Chain Governance](https://github.com/p-offtermatt/awesomewasm_2024) - 5K, 2nd place, AwesomWasm 2024
 - [Mesh Governance](https://github.com/CyberHoward/interchain-gov) - 5K, 2nd place, AwesomWasm 2024
